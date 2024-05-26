@@ -5,7 +5,7 @@
 
 **Links a les pràctiques**
 
-|[Main](https://github.com/rubiolbernat/Practica_3)|   |
+|[Main](https://github.com/rubiolbernat/Practica_4_RTOS)|   |
 |---|---|
 |- |[Exercici 1](/Exercici1)  | 
 |- |[Semàfor](/Semafor)|
